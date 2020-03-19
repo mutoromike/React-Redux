@@ -1,5 +1,5 @@
 {
-  "name": "todo-app-ui-unconnected-redux",
+  "name": "todo-app",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -8,7 +8,10 @@
     "classnames": "2.2.6",
     "react": "16.4.2",
     "react-dom": "16.4.2",
-    "react-scripts": "1.1.4"
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.4"
   },
   "devDependencies": {},
   "scripts": {
